@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 734ed0a3803bed61c36cb4e863987aa4e1fa63a5 moises fenix <moise@Moisés_Fênix.(none)> 1790451234 -0300	clone: from https://github.com/southiagorm/prog_frameworks_web_terca_2026.2.git
+734ed0a3803bed61c36cb4e863987aa4e1fa63a5 ac7b04f88c704c4c5f06656ec434cf84baf44351 Aluno <aluno@example.com> 1790552467 +0000	commit: feat: adiciona ordenacao e contagem total no findMany de alunos
+ac7b04f88c704c4c5f06656ec434cf84baf44351 210663111d45aca567b4b4f8d41ff76c65ecd454 Aluno <aluno@example.com> 1790552480 +0000	commit: feat: adiciona busca de aluno por id (findUnique)
+210663111d45aca567b4b4f8d41ff76c65ecd454 a98d84dfe1b2535dda374e72fa6ef7bd920e8a38 Aluno <aluno@example.com> 1790552496 +0000	commit: feat: adiciona atualizacao de aluno (update)
+a98d84dfe1b2535dda374e72fa6ef7bd920e8a38 413bd23ee0a4383cd275a661c7a8082c9ab58e57 Aluno <aluno@example.com> 1790552500 +0000	commit: feat: adiciona remocao de aluno (delete)
